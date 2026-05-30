@@ -8,7 +8,7 @@ license = "LGPL-2.1 OR MPL-1.1"
 repository = "https://github.com/johni0702/rust-libnice"
 
 [dependencies]
-libnice-sys = { git = "https://github.com/esaaprillia/libnice-sys", rev = "eb88830" }
+libnice-sys = { git = "https://github.com/esaaprillia/libnice-sys", rev = "1809bd7" }
 libc = "0.2"
 glib-sys = "0.10"
 gobject-sys = "0.10"
